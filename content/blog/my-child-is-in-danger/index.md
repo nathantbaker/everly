@@ -4,6 +4,8 @@ date: "2014-11-12T22:12:03.284Z"
 description: "Last week I pulled out large chunks of my beard. A couple hairs at a time. It looked so hideous that I had to shave and start over. There were obvious, large gaps. Bizarre. I’ve never done that before — that, or had a child in this kind of danger..."
 ---
 
+![Prayer image](./prayer.jpg)
+
 Last week I pulled out large chunks of my beard. A couple hairs at a time. It looked so hideous that I had to shave and start over. There were obvious, large gaps. Bizarre. I’ve never done that before — that, or had a child in this kind of danger.
 
 If only this danger was in the form of a man coming at my child with a knife. Then I could be useful and throw myself at Danger and fight through the slices. With nothing but adrenaline, I’d grind Danger’s face into the pavement while the cops came.
