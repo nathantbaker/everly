@@ -1,5 +1,5 @@
 /**
- * Bio component that queries for data
+ * BlogDescription component that queries for data
  * with Gatsby's useStaticQuery component
  *
  * See: https://www.gatsbyjs.org/docs/use-static-query/
@@ -11,9 +11,9 @@ import Image from "gatsby-image"
 
 import { rhythm } from "../utils/typography"
 
-const Bio = () => {
+const BlogDescription = () => {
   const data = useStaticQuery(graphql`
-    query BioQuery {
+    query BlogDescriptionQuery {
       avatar: file(absolutePath: { regex: "/nate-baker-profile.jpeg/" }) {
         childImageSharp {
           fixed(width: 50, height: 50) {
@@ -54,14 +54,14 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong>, a mobile app developer who lives and works in Nashville.
+        Written by <strong>{author}</strong> who lives and works in Nashville building useful things.
         {` `}
-        <a href={`http://nathantbaker.com/`}>
-          Learn more about Nate
+        <a href={`https://twitter.com/${social.twitter}`}>
+          You should follow him on Twitter
         </a>
       </p>
     </div>
   )
 }
 
-export default Bio
+export default BlogDescription
