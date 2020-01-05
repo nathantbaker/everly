@@ -1,5 +1,5 @@
 ---
-title: An Update for the Day
+title: "Everly was Born"
 date: "2014-12-28"
 ---
 

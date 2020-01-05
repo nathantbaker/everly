@@ -1,6 +1,6 @@
 ---
-title: My Child is in Danger
-date: "2014-11-12T22:12:03.284Z"
+title: "My Child is in Danger"
+date: "2014-11-12"
 description: "Last week I pulled out large chunks of my beard. A couple hairs at a time. It looked so hideous that I had to shave and start over. There were obvious, large gaps. Bizarre. I’ve never done that before — that, or had a child in this kind of danger..."
 ---
 
