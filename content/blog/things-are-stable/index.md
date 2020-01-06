@@ -3,6 +3,10 @@ title: "Things are Stable"
 date: "2014-12-29T10:12:03.284Z"
 ---
 
+![Everly image 1](./everly1.jpg)
+
+![Everly image 2](./everly2.jpg)
+
 Morning update: Things are stable this morning. Her last episode of dropping to low oxygen saturation was still last night at about 7p with no new ones. They have been trying to ween her off oxygen a bit through the night. We are now giving her 35% oxygen down from 100%. We still are using the ventaliator and giving pain meds.
 
 She is at a stable 96% oxygen saturation which is really great. The nurse in the nicu thinks a lot of why we are able to bring down how much oxygen we give her is because of pain management. We are giving her the same amount of medicine, but giving her a little bump when she looks uncomfortable. The goal of how much oxygen we give her is 21% which is how much oxygen is in air. She also breaths slower and more naturally when she is sleeping.

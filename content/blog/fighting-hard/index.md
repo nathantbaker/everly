@@ -3,6 +3,8 @@ title: "Fighting Hard and Slowly"
 date: "2014-12-29T18:12:03.284Z"
 ---
 
+![Everly stronger](./evening.jpg)
+
 An evening update: Everly is still stable and we are seeing mild promising indicators that's she's fighting hard and slowly, slowly getting stronger.
 
 Yesterday she was being given 100% oxygen. It's fluctuated a bit throughout the day but is now less than 45%. We want her at 21%. More important, the amount of pressure the ventilator is using has been dialed a hair down as well, like 2-4% less overall pressure.
