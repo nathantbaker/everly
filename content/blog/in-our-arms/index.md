@@ -3,6 +3,8 @@ title: "She’ll Pass in Our Arms Sunday"
 date: "2015-01-16T10:12:03.284Z"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/88YIh-zmU8w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Day 19: #TeamEverly Update — Colby and I have decided to let Everly die. She’ll pass in our arms Sunday. Our daughter is already slowly dying and keeping her alive would be for us, not her.
 
 Here’s a video of Colby washing Everly for the first time.

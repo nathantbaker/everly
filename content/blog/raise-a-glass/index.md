@@ -3,6 +3,8 @@ title: "Raise a Toast for Everly"
 date: "2014-12-31T10:12:03.284Z"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xyHcPf-SBD4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 12/31/2014 Raise a Toast for Everly! — We started reading bedtime stories to Everly in the NICU. We’re going through the The Jesus Storybook Bible. She’s not great at staying awake through a story at the moment, but I can tell she’ll grow up to be a professional bubble blower.
 
 We’re slowly finding ways to bring a bit of the nursery to Everly. We draped one of her blankets with her name on it over her NICU bed today.

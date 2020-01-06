@@ -3,6 +3,8 @@ title: "Pamidronate Treatment"
 date: "2014-12-30"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LDmjvuWcRDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 12/30 update — Here's Colby checking in on Everly this morning. (The squeaking is air leaking out of her breathing tube. That's normal for how this tube is setup.)
 
 Everly had her first injection of pamidronate today. It went well and this is really encouraging. She didn't get any of the side effects that can be associated with it like a fever or drop in calcium. She reacted to it like a champ. That's great. We'll continue pamidronate treatment with her. This will hopefully start to strengthen her bones up to a stronger level as well as help with pain management. She is in pain because of all the fractures she has that are healing.

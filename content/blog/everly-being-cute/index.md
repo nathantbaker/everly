@@ -3,6 +3,8 @@ title: "Everly Being Cute"
 date: "2015-01-10T10:12:03.284Z"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OU-lxfJGJc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>****
+
 Day 13: #TeamEverly Update — Now don’t freak out. Everly seemed to have a great day even with a touch less ventilator support. Even so, I expect the medical team likely thinks she can’t be weened much more.
 
 << If you are just jumping into our updates, our daughter Everly was born on December 28, 2014. She has OI, which is short for Osteogenesis Imperfecta. It's commonly called brittle bone disease. It means she fractures her bones easily. She was born with at least 40 fractures in her ribs, arms, legs and her clavicle. She has one of the more severe types of OI. Because of the irregular shape of her ribs, Everly's lungs didn't have the room to grow into big lungs. As far as her medical prognosis, she's in a grey area. One of our medical professionals we trust says he or she has seen babies similar to Everly who have made it... and some who have not. We are thankful God is in control and one of the reasons we're being so open about Everly's journey is so we have an army of people who know how to pray. Will you join us in the fight? We so appreciate your support! >>
