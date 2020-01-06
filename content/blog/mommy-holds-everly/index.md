@@ -7,8 +7,6 @@ date: "2015-01-13T10:12:03.284Z"
 
 Day 16: #TeamEverly Update — Colby got to hold Everly for the first time today. It was epic. We’re still doing tons of research. And we finally thought of a way you can help!
 
-<< If you are just jumping into our updates, our daughter Everly was born on December 28. She has OI, which is short for Osteogenesis Imperfecta. It's commonly called brittle bone disease. It means she fractures her bones easily. She was born with at least 40 fractures in her ribs, arms, legs and her clavicle. She has one of the more severe types of OI. Because of the irregular shape of her ribs, Everly's lungs didn't have the room to grow into big lungs. As far as her medical prognosis, she's in a grey area. One of our medical professionals we trust says he or she has seen babies similar to Everly who have made it... and some who have not. We are thankful God is in control and one of the reasons we're being so open about Everly's journey is so we have an army of people who know how to pray. Will you join us in the fight? We so appreciate your support! >>
-
 Here’s a video of Colby holding Everly for the first time today. Colby didn’t get to hold her closely, but this was a great and exciting first start. Everly slides down her bed as she wiggles since she’s on an incline, so Colby moved Everly to higher ground.
 
 In the past when Everly needed to be moved, two nurses would interlock hands and carefully move her, but Colby was ready to jump in. Everly handled the move like a champ and I heard Lion King in the background.

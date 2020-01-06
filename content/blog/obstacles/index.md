@@ -7,8 +7,6 @@ date: "2015-01-03T10:12:03.284Z"
 
 1/3/2015 Team Everly Update — Everly has been doing really well the last 24 hours, but she has some obstacles to overcome in the future.
 
-[ If you are just jumping into our updates, our daughter Everly was born on December 28. She has OI, which is short for Osteogenesis Imperfecta. It's commonly called brittle bone disease. It means she fractures her bones easily. She was born with at least 40 fractures in her ribs, arms, legs and her clavicle. She has one of the more severe types of OI. Because of the irregular shape of her ribs, Everly's lungs didn't have the room to grow into big lungs. As far as her medical prognosis, she's in a grey area. One of the residents we trust says he or she has seen babies similar to Everly who have made it... and some who have not. We are thankful God is in control and one of the reasons we're being so open about Everly's journey is so we have an army of people who know how to pray. Will you join us in the fight? We so appreciate your support! ]
-
 We’re getting better at identifying why Everly is fussy. She consistently has a fit an hour after she eats, so I might start timing it so the nurse can get ready ;) Colby helped change Everly’s diaper for the first time today.
 
 So far, the test of giving Everly Tylenol looks to be successful, at least from our layman’s perspective. Typically, Everly will need about 4 extra doses of her pain medicine Fentanyl on top of her base dose over a course of a day to preemptively calm her before she receives care or after she gets too worked up and needs to be calmed down.

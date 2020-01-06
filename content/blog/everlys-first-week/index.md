@@ -7,8 +7,6 @@ date: "2015-01-04T10:12:03.284Z"
 
 1/4/2015 Team Everly Update — We celebrated Everly’s first week with us! We worked on optimizing her pain management today. And… I had a meltdown in the shower.
 
-[ If you are just jumping into our updates, our daughter Everly was born on December 28. She has OI, which is short for Osteogenesis Imperfecta. It's commonly called brittle bone disease. It means she fractures her bones easily. She was born with at least 40 fractures in her ribs, arms, legs and her clavicle. She has one of the more severe types of OI. Because of the irregular shape of her ribs, Everly's lungs didn't have the room to grow into big lungs. As far as her medical prognosis, she's in a grey area. One of the residents we trust says he or she has seen babies similar to Everly who have made it... and some who have not. We are thankful God is in control and one of the reasons we're being so open about Everly's journey is so we have an army of people who know how to pray. Will you join us in the fight? We so appreciate your support! ]
-
 We celebrated Everly’s first week with us today by getting some fancy burgers. Every also got a few small gifts, which she can’t keep in her bed yet, since they could be carrying germs. We’ll spoil you later Everly! It’s crazy that a week ago, we were just getting to the hospital.
 
 It’s about time for Everly’s umbilical cord IV to expire because the vein in her umbilical cord naturally closes up. The medical team isn’t ready to try putting in a second IV, so we’re working on transitioning her to medicine she can take orally.

@@ -7,8 +7,6 @@ date: "2015-01-08T10:12:03.284Z"
 
 1/8/2015 Team Everly Update — Change of plans. No IV surgery is scheduled. Everly made it to her new NICU bed safety. We were a bit discouraged today as we saw Everly “riding the vent” multiples times.
 
-<< If you are just jumping into our updates, our daughter Everly was born on December 28. She has OI, which is short for Osteogenesis Imperfecta. It's commonly called brittle bone disease. It means she fractures her bones easily. She was born with at least 40 fractures in her ribs, arms, legs and her clavicle. She has one of the more severe types of OI. Because of the irregular shape of her ribs, Everly's lungs didn't have the room to grow into big lungs. As far as her medical prognosis, she's in a grey area. One of our medical professionals we trust says he or she has seen babies similar to Everly who have made it... and some who have not. We are thankful God is in control and one of the reasons we're being so open about Everly's journey is so we have an army of people who know how to pray. Will you join us in the fight? We so appreciate your support! >>
-
 Here’s a video of Everly in her old NICU bed. We’ll have to give you a tour of her new digs soon. One of the games Colby and I like to play is who can get a good hand hold first. Colby has been winning only because she figured out Everly’s left hand is naturally more grabby faster than me.
 
 Early this morning the surgery team tried seeing if it was possible to simply replace the catheter in Everly’s umbilical cord IV. If this could be done, it could be an alternative to a central line, but it wasn’t working out.

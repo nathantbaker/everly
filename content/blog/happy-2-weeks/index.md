@@ -7,8 +7,6 @@ date: "2015-01-11T10:12:03.284Z"
 
 Day 14: #TeamEverly Update — We’re testing cutting back on Everly’s ventilator support even more since she’s doing well so far. We get a new neonatologist for 2 weeks starting tomorrow. Happy Fortnight Everly!
 
-<< If you are just jumping into our updates, our daughter Everly was born on December 28. She has OI, which is short for Osteogenesis Imperfecta. It's commonly called brittle bone disease. It means she fractures her bones easily. She was born with at least 40 fractures in her ribs, arms, legs and her clavicle. She has one of the more severe types of OI. Because of the irregular shape of her ribs, Everly's lungs didn't have the room to grow into big lungs. As far as her medical prognosis, she's in a grey area. One of our medical professionals we trust says he or she has seen babies similar to Everly who have made it... and some who have not. We are thankful God is in control and one of the reasons we're being so open about Everly's journey is so we have an army of people who know how to pray. Will you join us in the fight? We so appreciate your support! >>
-
 Today we celebrated Everly’s first 2 weeks outside the Baby Bump Motel. Time flies when you wake up each day not knowing what day it is. Based on how full the parking lot and the hallways are, we assumed it was the weekend, but that’s as close as we get to tracking the time these days.
 
 Our first ventilator ween was from 35 forced mechanical breaths a minute to 30. This morning, our team thought Everly did well on 30. She did so well in fact, they are comfortable testing her at 25 mechanical breaths a minute.

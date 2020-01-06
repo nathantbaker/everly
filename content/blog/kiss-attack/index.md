@@ -7,8 +7,6 @@ date: "2015-01-07T10:12:03.284Z"
 
 1/7/2015 Team Everly Update — Everly has surgery Thursday to put in a central line IV. She is the most calm and relaxed we’ve ever seen her today, but she still needs to become much less dependent on the ventilator.
 
-[ If you are just jumping into our updates, our daughter Everly was born on December 28. She has OI, which is short for Osteogenesis Imperfecta. It's commonly called brittle bone disease. It means she fractures her bones easily. She was born with at least 40 fractures in her ribs, arms, legs and her clavicle. She has one of the more severe types of OI. Because of the irregular shape of her ribs, Everly's lungs didn't have the room to grow into big lungs. As far as her medical prognosis, she's in a grey area. One of the residents we trust says he or she has seen babies similar to Everly who have made it... and some who have not. We are thankful God is in control and one of the reasons we're being so open about Everly's journey is so we have an army of people who know how to pray. Will you join us in the fight? We so appreciate your support! ]
-
 Here’s Colby kissing Everly over and over and over. She can’t stop.
 
 Everly has been much more active ever since we weened her off of IV Fentanyl and moved her to by mouth Morphine. And it’s not the “I’ve got a dirty diaper here people” active. She’s both active and chill. She’s loving her new pain management situation.

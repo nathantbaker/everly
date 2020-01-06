@@ -7,8 +7,6 @@ date: "2015-01-14T10:12:03.284Z"
 
 Day 17: #TeamEverly Update — Everly is stable and getting lots of love. You’ll hear a little less from us over the next day or two while we work through the decisions before us.
 
-<< If you are just jumping into our updates, our daughter Everly was born on December 28. She has OI, which is short for Osteogenesis Imperfecta. It's commonly called brittle bone disease. It means she fractures her bones easily. She was born with at least 40 fractures in her ribs, arms, legs and her clavicle. She has one of the more severe types of OI. Because of the irregular shape of her ribs, Everly's lungs didn't have the room to grow into big lungs. As far as her medical prognosis, she's in a grey area. One of our medical professionals we trust says he or she has seen babies similar to Everly who have made it... and some who have not. We are thankful God is in control and one of the reasons we're being so open about Everly's journey is so we have an army of people who know how to pray. Will you join us in the fight? We so appreciate your support! >>
-
 Here’s a video of our dog Hudson giving Everly a kiss. He’s in love. We don’t expect we can smuggle him into Everly’s room though. He’s way too disobedient to be a service dog.
 
 The only change with Everly’s care today was that we increased her base morphine dose. She has been a bit more antsy so we’re making sure we’re ahead of the pain.
