@@ -1,5 +1,5 @@
 ---
-title: "Our Daughter"
+title: "Everly Leyden Baker"
 date: "2015-01-18T10:12:03.284Z"
 ---
 

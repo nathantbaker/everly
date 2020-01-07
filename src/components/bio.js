@@ -54,11 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong>, a mobile app developer who lives and works in Nashville.
-        {` `}
-        <a href={`http://nathantbaker.com/`}>
-          Learn more about Nate
-        </a>
+        Written by <a href={`http://nathantbaker.com/`}>Nate Baker</a>. Nate lives with his wife, Colby, in Nashville. After Everly passed, Nate and Colby adopted 2 childern and they are crazy cool.
       </p>
     </div>
   )
