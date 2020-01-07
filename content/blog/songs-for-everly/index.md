@@ -3,7 +3,7 @@ title: "Songs for Everly"
 date: "2020-01-06T10:12:03.284Z"
 ---
 
-After sharing [Everly's story](/), I got seperate emails from both Angela and Matt, telling me they had written songs inspired by Everly.
+After sharing [Everly's story](/), I got separate emails from both Angela and Matt, telling me they had written songs inspired by Everly.
 
 I listen to these songs often, and they help me lean into my pain and find some hope. My cousin [Tim Lauer](https://www.timlauermusic.com/) put it well:
 
